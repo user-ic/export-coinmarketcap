@@ -20,8 +20,7 @@ python coinmarketcap.py --currencies bitcoin,ethereum --start_date 20180101 --en
 ```
 ## notes
 the names of the currencies can be obtained at the coinmarketcap website
-
-### example
+##### ethereum, bitcoin
 ```
 https://coinmarketcap.com/currencies/ethereum/historical-data/
 https://coinmarketcap.com/currencies/bitcoin/historical-data/
